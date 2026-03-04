@@ -1,3 +1,4 @@
+Note:-I perform all of this in mobile so everything that I know to do in mobile I tried my best so if there is any thing missing then I apologize 
 This project analyzes historical temperature data for Karachi and compares the predictive accuracy of a traditional Time-Series model (ARIMAX) against a Machine Learning approach (Lasso Regression).
 Keyy Features
 Interactive Dashboard: Developed a "Lively" Plotly-based time-series explorer with range sliders and unified hover effects.
